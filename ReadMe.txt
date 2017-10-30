@@ -1,0 +1,1 @@
+This is a simple clone of BBC main web page, that I've done as a training of CSS.
